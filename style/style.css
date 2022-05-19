@@ -1,0 +1,46 @@
+
+#quotes{
+    position: relative;
+    text-align: center;
+    word-wrap: break-word ;
+    bottom: 70vh;
+    z-index: 9999999;
+    left: 14vw;
+    width: 70vw;
+}
+
+h3{
+    color: bisque;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
+    font-size: 5vh;
+}
+
+section{
+    height: 100vh;
+    width: 100vw;
+}
+
+.button:hover{
+    cursor: pointer;
+}
+
+.button{
+    position: relative;
+        text-align: center;
+        bottom: 14vh;
+        z-index: 9999999;
+        left: 46vw;
+        width: 160px;
+        height: 40px;
+        background-color: bisque;
+        border-radius: 5px;
+        border: none;
+
+        letter-spacing: 5px;
+        font-size: 2vh;
+}
+
+.btn{
+    position: fixed;
+}
